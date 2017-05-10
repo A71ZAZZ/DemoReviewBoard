@@ -10,7 +10,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            #test
+            //test
+            //just for demo
+
         }
     }
 }
